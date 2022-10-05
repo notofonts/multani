@@ -9,5 +9,4 @@ includeSubsets:
     - start: 0x0964
       end: 0x0965
 sources:
-sources:
 - NotoSansMultani.designspace
