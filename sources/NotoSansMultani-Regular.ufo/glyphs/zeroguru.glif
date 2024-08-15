@@ -35,4 +35,10 @@ zeroguru
       <point x="373" y="151"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-15 12:03:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>
