@@ -5,6 +5,7 @@
   <note>
 threeguru
 </note>
+  <guideline x="327" y="632"/>
   <outline>
     <contour>
       <point x="425" y="-66" type="curve"/>
@@ -74,4 +75,10 @@ threeguru
       <point x="360" y="-3"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-14 15:44:48 +0000</string>
+    </dict>
+  </lib>
 </glyph>
